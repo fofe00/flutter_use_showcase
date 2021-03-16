@@ -56,7 +56,7 @@ class _MyHomePageState extends State<MyHomePage> {
         actions: [
           Showcase(
             key: keyOne,
-            description: "test de menu",
+            description: "test de mopn showcase",
             child: IconButton(icon: Icon(Icons.favorite), onPressed: () {}),
             contentPadding: EdgeInsets.all(12.0),
           ),
